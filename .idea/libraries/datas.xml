@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="datas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/assets/datas/Word_Template.zip!/" />
+      <root url="jar://$PROJECT_DIR$/assets/assets/datas/LaTex_Package.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
